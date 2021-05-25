@@ -25,5 +25,6 @@ module.exports = {
     'react/no-unused-prop-types': 0, // Este is going to use Flow types.
     'class-methods-use-this': 0, // Good idea, but ignores React render.
     'arrow-parens': 0, // Not really.
+    'react/button-has-type': 0,
   },
 };
